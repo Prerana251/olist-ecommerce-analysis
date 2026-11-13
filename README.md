@@ -297,32 +297,3 @@ These insights can help businesses improve **customer retention, operational eff
 
 
 
-# 📌 Project Highlights
-
-✅ End-to-end E-Commerce Data Analytics Project
-
-✅ 9 interconnected datasets
-
-✅ Python-based data cleaning and analysis
-
-✅ SQL-based business analysis
-
-✅ Excel & Advanced Excel analysis
-
-✅ Interactive Power BI dashboards
-
-✅ 75+ DAX calculations and measures
-
-✅ RFM Customer Segmentation
-
-✅ Customer Lifetime Value Analysis
-
-✅ Revenue Forecasting
-
-✅ Order Forecasting
-
-✅ Churn Risk Analysis
-
-✅ Strategic Business Recommendations
-
----
